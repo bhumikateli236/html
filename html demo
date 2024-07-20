@@ -5,11 +5,6 @@
   <body>
     <h1>welcome to full stack developement</h1>
     <img src="download.jpg" alt="">
-  <p>hello</p>
-<<<<<<< HEAD
-  <p>bhumika</p>
-=======
-  <h1>hiii</h1>
->>>>>>> feature
+    <p>bhumika</p>
   </body>
 </html>
